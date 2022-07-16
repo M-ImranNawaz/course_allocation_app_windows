@@ -1,0 +1,17 @@
+export 'package:course_allocation/contstants.dart';
+export 'package:course_allocation/views/pages/allocation_page.dart';
+export 'package:course_allocation/views/pages/courses_page.dart';
+export 'package:course_allocation/views/pages/faculty_page.dart';
+export 'package:course_allocation/views/pages/faculty_pref_page.dart';
+export 'package:course_allocation/views/pages/home_page.dart';
+export 'package:course_allocation/views/pages/layout_page.dart';
+export 'package:course_allocation/views/pages/layout_page.dart';
+export 'package:course_allocation/views/pages/signup_page.dart';
+export 'package:course_allocation/views/pages/programs_page.dart';
+export 'package:course_allocation/views/pages/signin_page.dart';
+export 'package:course_allocation/views/widgets/a_thead_widget.dart';
+export 'package:course_allocation/views/widgets/c_thead_widget.dart';
+export 'package:course_allocation/views/widgets/on_hover.dart';
+export 'package:course_allocation/views/widgets/text_box_widget.dart';
+export 'package:course_allocation/views/widgets/rf_thead_widget.dart';
+export 'package:course_allocation/views/widgets/fp_thead_widget.dart';
