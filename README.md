@@ -1,4 +1,4 @@
-# course_allocation
+# Course Allocation App
 
 A Course Allocation App for Windows to allocate courses to faculty
 App able to read external excel files, create pdf files CRUD operation to mysql server and Hive db, store data locally and online, 
