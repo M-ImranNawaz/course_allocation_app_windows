@@ -4,7 +4,7 @@ A Course Allocation App for Windows to allocate courses to faculty
 App able to read external excel files, create pdf files CRUD operation to mysql server and Hive db, store data locally and online, 
 ## Tools and Technologies
 VS Code, 
-Flutter, Flunet-ui, Getx, Hive db, Spreasshea_decoder
+Flutter, Flunet-ui, Getx, Hive db, Spreadsheat_decoder
 Laravel Apis https://github.com/M-ImranNawaz/Course-Allocation-APIs, 
 
 
