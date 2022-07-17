@@ -5,8 +5,8 @@ App able to read external excel files, create pdf files CRUD operation to mysql 
 ## Tools and Technologies
 VS Code, 
 Flutter, Flunet-ui, Getx, Hive db, Spreadsheat_decoder
-Laravel Apis https://github.com/M-ImranNawaz/Course-Allocation-APIs, 
-
+Laravel Apis    https://github.com/M-ImranNawaz/course_allocation_apis, 
+Phone App for Preferwences   https://github.com/M-ImranNawaz/course_allocation_phone
 
 <img src="https://user-images.githubusercontent.com/59133164/179384013-085c8f6f-804a-46b7-8e5d-f47a87686a3a.png" width="800" height="400" />
 <img src="https://user-images.githubusercontent.com/59133164/179384017-f55781a4-4a00-4a62-817d-93e3370d5ede.png" width="800" height="400" />
